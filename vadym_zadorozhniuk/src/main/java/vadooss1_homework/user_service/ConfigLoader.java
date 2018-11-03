@@ -1,4 +1,4 @@
-package vadooss1_homework.user_servise;
+package vadooss1_homework.user_service;
 
 import java.io.IOException;
 import java.util.Properties;

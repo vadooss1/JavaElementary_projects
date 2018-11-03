@@ -1,4 +1,4 @@
-package vadooss1_homework.user_servise;
+package vadooss1_homework.user_service;
 
 import org.apache.log4j.Logger;
 
@@ -7,7 +7,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-import static vadooss1_homework.user_servise.ConfigLoader.*;
+import static vadooss1_homework.user_service.ConfigLoader.*;
 
 
 public class MySQLconnector {

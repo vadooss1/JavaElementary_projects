@@ -1,10 +1,7 @@
-package vadooss1_homework.user_servise;
+package vadooss1_homework.user_service;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-
-import java.sql.Connection;
-import java.util.LinkedList;
 
 public class Runner {
     public static void main(String[] args) {
